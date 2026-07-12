@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-console-bg: #0B1220;
+  --color-console-panel: #141B2E;
+  --color-console-border: #232B45;
+  --color-signal-safe: #5EEAD4;
+  --color-signal-warn: #F0B429;
+  --color-signal-threat: #E5484D;
+}
+
+body {
+  background-color: #0B1220;
+  color: #E2E8F0;
+}
